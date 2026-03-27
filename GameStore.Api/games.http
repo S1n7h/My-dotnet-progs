@@ -1,0 +1,38 @@
+# GET http://localhost:5073 You get from /
+
+# You get from /games instead of /
+GET http://localhost:5073/games
+
+###
+GET http://localhost:5073/games/5
+
+###
+POST http://localhost:5073/games
+Content-Type: application/json 
+
+{
+    "name" : "TEST CASE",
+    "genreId" : 4,
+    "price" : 21.09,
+    "releaseDate" : "2022-09-10"
+}
+
+###
+GET http://localhost:5073/games/6
+
+###
+PUT http://localhost:5073/games/2
+Content-Type: application/json 
+
+{
+    "name" : "blegh meow",
+    "genreId" : 4,
+    "price" : 31.09,
+    "releaseDate" : "2022-09-10"
+}
+
+###
+DELETE http://localhost:5073/games/5
+
+###
+GET http://localhost:5073/genres
