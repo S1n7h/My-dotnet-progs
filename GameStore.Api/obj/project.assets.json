@@ -3217,11 +3217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
+      "projectUniqueName": "D:\\D\\Every Project require for techstack\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "D:\\D\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
+      "projectPath": "D:\\D\\Every Project require for techstack\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
       "packagesPath": "C:\\Users\\BWAHAHAHAHAHA!!!!!!!\\.nuget\\packages\\",
-      "outputPath": "D:\\D\\My dotnet progs\\GameStore.Api\\obj\\",
+      "outputPath": "D:\\D\\Every Project require for techstack\\My dotnet progs\\GameStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BWAHAHAHAHAHA!!!!!!!\\AppData\\Roaming\\NuGet\\NuGet.Config",

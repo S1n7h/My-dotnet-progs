@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DANtyAJPVg0=",
+  "dgSpecHash": "xO9GzhI4KCg=",
   "success": true,
-  "projectFilePath": "D:\\D\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "D:\\D\\Every Project require for techstack\\My dotnet progs\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BWAHAHAHAHAHA!!!!!!!\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\BWAHAHAHAHAHA!!!!!!!\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",

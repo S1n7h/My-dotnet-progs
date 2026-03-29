@@ -1,0 +1,44 @@
+// import reactLogo from './assets/react.svg'
+// import viteLogo from './assets/vite.svg'
+// import heroImg from './assets/hero.png'
+
+// let name = "Me";
+// let name: string = "hoo";
+//or
+//let name: string;
+//string = "hoo";
+//let age: number;
+//let hobbies: string[];
+//let role: [number, string];
+//role = [4, "meow"];
+
+//how to define an object
+//type Person = {
+//   name: string;
+//   age: number;
+// }
+
+//let person: Person;
+//person = {name: "Hoo", age: 40};
+
+//for the same variable to be able to hold more than one type of variable
+//let age: Number | string;
+//age = 5;
+//age = "5";
+
+//function printName(string: name){
+//   Console.Log(name);
+// }printName("Meow");
+
+//another way to define functions is as such:
+//let printName: (name: string) => void; instead of void, you can use never
+//void returns undefined whereas, never return nothing
+
+//interface Person{
+//   name: string,
+//   age?: number;
+// }
+
+// interface Guy extends Person{
+//   profession: string;
+// }
